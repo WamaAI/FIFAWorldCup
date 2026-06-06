@@ -1,4 +1,4 @@
-# Mundial 2026 — Tracker en español
+# Copa del Mundo 2026 — Tracker en español
 
 Sitio estático móvil tipo iPhone para seguir el Mundial FIFA 2026:
 
